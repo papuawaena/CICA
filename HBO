@@ -1,0 +1,59 @@
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title=" group-title="HBO GO",HBO+ 🇧🇷
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/245.ts
+#EXTINF:-1 tvg-logo="" group-title=" group-title="HBO GO",HBO 2 🇧🇷
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/248.ts
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="HBO GO",HBO 🇧🇷
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/255.ts
+#EXTINF:-1 tvg-logo="" group-title=" group-title="HBO GO",HBO Family 🇧🇷
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/253.ts
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="HBO GO",HBO Mundi 🇧🇷
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/257.ts
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="HBO GO",HBO POP 🇧🇷
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/261.ts
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="HBO GO",HBO Sig 🇧🇷
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/262.ts
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="HBO GO",HBO Xtreme 🇧🇷
+http://78.159.119.122:2082/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/267.ts
+#EXTINF:-1 group-title="HBO GO",HBO Plus HD
+http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1 group-title="HBO GO",PARAMOUNT
+http://200.125.170.120:8000/play/a060
+#EXTINF:-1 tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="HBO GO",Cinemax 🇧🇷
+http://78.159.119.122:2082/Tourobox1-rO9M2n1zrf/dnKwrIakpj/240
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner HD
+http://200.59.188.3:8000/play/a00h
+#EXTINF:-1 group-title="HBO GO",AXN HD
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 group-title="HBO GO",SPACE HD
+http://38.180.133.31:8000/play/a0qj/index.m3u8
+#EXTINF:-1 group-title="HBO GO",Comedy Central HD
+http://200.125.170.121:8000/play/a04l
+#EXTINF:-1 group-title="HBO GO",Universal Premiere
+http://190.61.42.218:9000/play/a006
+#EXTINF:-1 group-title="HBO GO",STUDIO UNIVERSAL
+http://190.61.42.218:9000/play/a010
+#EXTINF:-1 group-title="HBO GO",A&E HD
+http://181.78.106.127:9000/play/ca086/index.m3u8
+#EXTINF:-1 group-title="HBO GO",GOLDEN
+http://45.184.87.142:8000/play/a04u
+#EXTINF:-1 group-title="HBO GO",GOLDEN EDGE
+http://38.44.109.41:8003/play/a002
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere HD
+http://200.125.170.122:8000/play/a00l
+
+
+
+
+
+
+
+
+
+
