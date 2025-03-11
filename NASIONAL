@@ -35,7 +35,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="🇮🇩 NASIONAL 🇮🇩🇮🇩 NASIONAL 🇮🇩",🇮🇩 MOJI 🇮🇩🇮🇩 NET TV 🇮🇩
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/net.png" group-title="🇮🇩 NASIONAL 🇮🇩",🇮🇩 MOJI 🇮🇩🇮🇩 NET TV 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
@@ -61,47 +61,47 @@ https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="🇮🇩 NASIONAL 🇮🇩",TV Kesehatan
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",TVRI Nasional
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",TVRI Nasional
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF:0group-title="🇮🇩 NASIONAL 🇮🇩" ,Metro Globe Network
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" ,Metro Globe Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",CNBC Indonesia
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",BTV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",BTV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:network-caching=1000
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",CNN Indonesia
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",CNN Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:network-caching=1000
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",131-Magna Channel
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",131-Magna Channel
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",Nusantara TV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",Nusantara TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://v5.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:0group-title="🇮🇩 NASIONAL 🇮🇩" ,Indonesiana TV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",Indonesiana TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",Garuda TV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",SindoNews
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",SindoNews
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-#EXTINF:0 group-title="🇮🇩 NASIONAL 🇮🇩",Liputan 6
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩",Liputan 6
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
@@ -110,27 +110,27 @@ https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
          ========================= HBO GROUP =========================
 
-#EXTINF:0 group-title="🇮🇩 HBO GROUP 🇮🇩",HBO
+#EXTINF:-1 group-title="🇮🇩 HBO GROUP 🇮🇩",HBO
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-#EXTINF:0 group-title="🇮🇩 HBO GROUP 🇮🇩,HBO Hits
+#EXTINF:-1 group-title="🇮🇩 HBO GROUP 🇮🇩",HBO Hits
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-#EXTINF:0 group-title="🇮🇩 HBO GROUP 🇮🇩,HBO Family
+#EXTINF:-1 group-title="🇮🇩 HBO GROUP 🇮🇩",HBO Family
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-#EXTINF:0group-title="🇮🇩 HBO GROUP 🇮🇩 ,HBO Signature
+#EXTINF:-1 group-title="🇮🇩 HBO GROUP 🇮🇩",HBO Signature
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-#EXTINF:0 group-title="🇮🇩 HBO GROUP 🇮🇩,Cinemax
+#EXTINF:-1 group-title="🇮🇩 HBO GROUP 🇮🇩",Cinemax
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -138,118 +138,118 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 
      ========================= Premium Movies =========================
 
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Hits
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Hits
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,HitsMovies
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,HitsMovies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Rock Action
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Rock Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Galaxy Premium
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Galaxy Premium
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Galaxy
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Galaxy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,CITRA DRAMA
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,CITRA DRAMA
 #EXTVLCOPT:network-caching=1000
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-#EXTINF:0,Paramount Network
+#EXTINF:-1,Paramount Network
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,KIX
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,KIX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Thriil
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Thriil
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Celestial Movies
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Celestial Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Celestial Classic
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Celestial Classic
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Cinema World HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinema World HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,SONY PIX
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,SONY PIX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,MyCinema
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,MyCinema
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,MyCinema Asia
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,MyCinema Asia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,My Family
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,My Family
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Kids HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Kids HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Action HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Action HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Max HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Max HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Xtra HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Xtra HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-#EXTINF:0group-title="🇮🇩 Premium Movies 🇮🇩 ,Indonesia Movie Channel
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Indonesia Movie Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,FMN (Telenovela)
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,FMN (Telenovela)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩,Zee Bioskop
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Zee Bioskop
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop
 #EXTVLCOPT:network-caching=1000
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298526
-#EXTINF:0group-title="🇮🇩 Premium Movies 🇮🇩 , ID: Etv Bioskop 02
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop 02
 #EXTVLCOPT:network-caching=1000
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298527
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop 03
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop 03
 #EXTVLCOPT:network-caching=1000
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298528
-#EXTINF:0 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop 04
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop 04
 #EXTVLCOPT:network-caching=1000
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298529
 
