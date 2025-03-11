@@ -161,46 +161,46 @@ https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,CITRA DRAMA
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",CITRA DRAMA
 #EXTVLCOPT:network-caching=1000
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-#EXTINF:-1,Paramount Network
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Paramount Network
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,KIX
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",KIX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Thriil
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Thriil
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Celestial Movies
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Celestial Movies
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Celestial Classic
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Celestial Classic
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinema World HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Cinema World HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,SONY PIX
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",SONY PIX
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,MyCinema
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",MyCinema
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,MyCinema Asia
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",MyCinema Asia
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
@@ -208,55 +208,55 @@ https://melon-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Cinemachi HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Kids HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Cinemachi Kids HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Action HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Cinemachi Action HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Max HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Cinemachi Max HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Cinemachi Xtra HD
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Cinemachi Xtra HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Indonesia Movie Channel
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Indonesia Movie Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,FMN (Telenovela)
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",FMN (Telenovela)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩,Zee Bioskop
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩",Zee Bioskop
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩", ID: Etv Bioskop
 #EXTVLCOPT:network-caching=1000
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298526
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop 02
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩", ID: Etv Bioskop 02
 #EXTVLCOPT:network-caching=1000
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298527
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop 03
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩", ID: Etv Bioskop 03
 #EXTVLCOPT:network-caching=1000
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298528
-#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩, ID: Etv Bioskop 04
+#EXTINF:-1 group-title="🇮🇩 Premium Movies 🇮🇩", ID: Etv Bioskop 04
 #EXTVLCOPT:network-caching=1000
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/298529
 
 
 ======================= Knowledge & Documentary =======================
 
-#EXTINF:0,History HD
+#EXTINF:0 group-title="🇮🇩 Knowledge & Documentary 🇮🇩",History HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:network-caching=1000
 https://melon-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
